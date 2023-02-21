@@ -108,13 +108,16 @@ CC_ADDER CC_ADDER_u0 (
 
 CC_ADDER CC_ADDER_u1 (
 // port map - connection between master ports and signals/registers   
-
-
+	.CC_ADDER_sum_Out(WIRE_adder_2_adder_cwireBUS_1),
+	.CC_ADDER_a0_InBUS(WIRE_multiplier_2_adder_cwireBUS_2),
+	.CC_ADDER_a1_InBUS(WIRE_multiplier_2_adder_cwireBUS_3)
 );
 
 CC_ADDER CC_ADDER_u2 (
 // port map - connection between master ports and signals/registers   
-
+	.CC_ADDER_sum_Out(WIRE_adder_2_comparator_cwireBUS_0),
+	.CC_ADDER_a0_InBUS(WIRE_adder_2_adder_cwireBUS_0),
+	.CC_ADDER_a1_InBUS(WIRE_adder_2_adder_cwireBUS_1)
 
 );
 
