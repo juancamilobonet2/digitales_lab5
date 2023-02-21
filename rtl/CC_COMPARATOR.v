@@ -22,8 +22,8 @@ module CC_COMPARATOR (
 //////////// OUTPUTS //////////
 	CC_COMPARATOR_result_Out,
 //////////// INPUTS //////////
-	CC_COMPARATOR_c0_InBUS,
-	CC_COMPARATOR_c1_InBUS
+	CC_COMPARATOR_c0_InBUS, // ADDER out
+	CC_COMPARATOR_c1_InBUS  // theta
 );
 //=======================================================
 //  PARAMETER declarations
@@ -43,7 +43,11 @@ input 	[NUMBER_DATAWIDTH-1:0] CC_COMPARATOR_c1_InBUS;
 //  Structural coding
 //=======================================================
 always @(*)
-
+	if (CC_COMPARATOR_c0_InBUS >= CC_COMPARATOR_c1_InBUS)
+		CC_COMPARATOR_result_Out=1;
+	else
+		CC_COMPARATOR_result_Out=0;
+	end
 
 endmodule
 

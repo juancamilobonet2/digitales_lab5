@@ -42,7 +42,7 @@ input 	[NUMBER_DATAWIDTH-1:0] CC_ADDER_a1_InBUS;
 //=======================================================
 //  Structural coding
 //=======================================================
-
+assign CC_ADDER_sum_Out = CC_ADDER_a0_InBUS + CC_ADDER_a1_InBUS;
 
 endmodule
 
