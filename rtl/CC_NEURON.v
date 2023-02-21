@@ -77,19 +77,25 @@ CC_MULTIPLIER CC_MULTIPLIER_u0 (
 
 CC_MULTIPLIER CC_MULTIPLIER_u1 (
 // port map - connection between master ports and signals/registers   
-
+	.CC_MULTIPLIER_product_Out(WIRE_multiplier_2_adder_cwireBUS_1),
+	.CC_MULTIPLIER_m0_InBUS(CC_NEURON_x1_InBUS),
+	.CC_MULTIPLIER_m1_InBUS(CC_NEURON_w1_InBUS)
 
 );
 
 CC_MULTIPLIER CC_MULTIPLIER_u2 (
 // port map - connection between master ports and signals/registers   
-
+	.CC_MULTIPLIER_product_Out(WIRE_multiplier_2_adder_cwireBUS_2),
+	.CC_MULTIPLIER_m0_InBUS(CC_NEURON_x2_InBUS),
+	.CC_MULTIPLIER_m1_InBUS(CC_NEURON_w2_InBUS)
 
 );
 
 CC_MULTIPLIER CC_MULTIPLIER_u3 (
 // port map - connection between master ports and signals/registers   
-
+	.CC_MULTIPLIER_product_Out(WIRE_multiplier_2_adder_cwireBUS_3),
+	.CC_MULTIPLIER_m0_InBUS(CC_NEURON_x3_InBUS),
+	.CC_MULTIPLIER_m1_InBUS(CC_NEURON_w3_InBUS)
 
 );
 
