@@ -1,0 +1,301 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BB_SYSTEM_y0_Out",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_t0_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x3_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w3_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x2_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w2_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x1_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w1_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_x0_InBUS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BB_SYSTEM_w0_InBUS[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

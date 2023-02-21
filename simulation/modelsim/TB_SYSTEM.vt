@@ -1,0 +1,97 @@
+/*######################################################################
+//#	G0B1T: HDL EXAMPLES. 2018.
+//######################################################################
+//# Copyright (C) 2018. F.E.Segura-Quijano (FES) fsegura@uniandes.edu.co
+//# 
+//# This program is free software: you can redistribute it and/or modify
+//# it under the terms of the GNU General Public License as published by
+//# the Free Software Foundation, version 3 of the License.
+//#
+//# This program is distributed in the hope that it will be useful,
+//# but WITHOUT ANY WARRANTY; without even the implied warranty of
+//# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//# GNU General Public License for more details.
+//#
+//# You should have received a copy of the GNU General Public License
+//# along with this program.  If not, see <http://www.gnu.org/licenses/>
+//####################################################################*/
+`timescale 1 ns/ 1 ns
+module TB_SYSTEM();
+// constants                                           
+// ============================================
+// Parameter ( may differ for physical synthesis)
+// ============================================
+	// general purpose registers
+	reg eachvec;
+	parameter NUMBER_DATAWIDTH = 8;
+	integer ii=0;
+
+	// test vector input registers
+// ============================================
+// INTERNAL WIRE AND REG DECLARATIONS
+// ============================================
+	// wires (OUTPUTS)
+	wire TB_SYSTEM_y0_Out; 
+	// reg (INPUTS)
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_t0_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_x0_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_w0_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_x1_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_w1_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_x2_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_w2_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_x3_InBUS;
+	reg [NUMBER_DATAWIDTH-1:0] TB_SYSTEM_w3_InBUS;
+	
+	// assign statements (if any)                          
+	BB_SYSTEM BB_SYSTEM_u0 (
+	// port map - connection between master ports and signals/registers   
+		.BB_SYSTEM_y0_Out(TB_SYSTEM_y0_Out),
+		.BB_SYSTEM_t0_InBUS(TB_SYSTEM_t0_InBUS),
+		.BB_SYSTEM_x0_InBUS(TB_SYSTEM_x0_InBUS),
+		.BB_SYSTEM_w0_InBUS(TB_SYSTEM_w0_InBUS),
+		.BB_SYSTEM_x1_InBUS(TB_SYSTEM_x1_InBUS),
+		.BB_SYSTEM_w1_InBUS(TB_SYSTEM_w1_InBUS),
+		.BB_SYSTEM_x2_InBUS(TB_SYSTEM_x2_InBUS),
+		.BB_SYSTEM_w2_InBUS(TB_SYSTEM_w2_InBUS),
+		.BB_SYSTEM_x3_InBUS(TB_SYSTEM_x3_InBUS),
+		.BB_SYSTEM_w3_InBUS(TB_SYSTEM_w3_InBUS)
+	);
+initial                                                
+begin                                                  
+// code that executes only once                        
+// insert code here --> begin                          
+
+// --> end                                             
+$display("Running testbench");                       
+end                                                    
+always                                                 
+// optional sensitivity list                           
+// @(event1 or event2 or .... eventn)                  
+
+begin                                                  
+// code executes for every event on sensitivity list   
+// insert code here --> begin   
+	#10000 $monitor( "%1d:", ii, "Tiempo: %2d." , $time, "TB_SYSTEM_x0_InBUS = %b", TB_SYSTEM_x0_InBUS, "  |  TB_SYSTEM_w0_InBUS= %b", TB_SYSTEM_w0_InBUS, "  |  TB_SYSTEM_y0_Out = %b ", TB_SYSTEM_y0_Out);            
+
+	#0 		TB_SYSTEM_t0_InBUS <= 40; TB_SYSTEM_x0_InBUS <= 1; TB_SYSTEM_w0_InBUS <= 1; TB_SYSTEM_x1_InBUS <= 2; TB_SYSTEM_w1_InBUS <= 2; TB_SYSTEM_x2_InBUS <= 3; TB_SYSTEM_w2_InBUS <= 3; TB_SYSTEM_x3_InBUS <= 4; TB_SYSTEM_w3_InBUS <= 4; // CHECK ??
+	
+	#20000	TB_SYSTEM_t0_InBUS <= 1; TB_SYSTEM_x0_InBUS <= 100; TB_SYSTEM_w0_InBUS <= 105; TB_SYSTEM_x1_InBUS <= 70; TB_SYSTEM_w1_InBUS <= 45; TB_SYSTEM_x2_InBUS <= 200; TB_SYSTEM_w2_InBUS <= 124; TB_SYSTEM_x3_InBUS <= 80; TB_SYSTEM_w3_InBUS <= 147; // CHECK ??
+	
+	#20000 		TB_SYSTEM_t0_InBUS <= 1; TB_SYSTEM_x0_InBUS <= 10; TB_SYSTEM_w0_InBUS <= 15; TB_SYSTEM_x1_InBUS <= 7; TB_SYSTEM_w1_InBUS <= 40; TB_SYSTEM_x2_InBUS <= 20; TB_SYSTEM_w2_InBUS <= 34; TB_SYSTEM_x3_InBUS <= 8; TB_SYSTEM_w3_InBUS <= 47; // CHECK ??
+	
+	
+	for (ii=0; ii<10; ii=ii+1)
+		begin
+			TB_SYSTEM_t0_InBUS <= 5;
+			TB_SYSTEM_x0_InBUS <= 5;
+			TB_SYSTEM_w0_InBUS <= ii;
+			
+			#20000;
+	end
+@eachvec;
+$finish;                                              
+// --> end                                             
+end                                                    
+endmodule
+
