@@ -123,7 +123,9 @@ CC_ADDER CC_ADDER_u2 (
 
 CC_COMPARATOR CC_COMPARATOR_u2 (
 // port map - connection between master ports and signals/registers   
-
+	.CC_COMPARATOR_result_Out(CC_NEURON_y0_Out),
+	.CC_COMPARATOR_c0_InBUS(WIRE_adder_2_comparator_cwireBUS_0),
+	.CC_COMPARATOR_c1_InBUS(CC_NEURON_t0_InBUS)
 
 );
 
