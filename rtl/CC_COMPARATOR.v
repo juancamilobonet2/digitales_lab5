@@ -47,7 +47,6 @@ always @(*)
 		CC_COMPARATOR_result_Out=1;
 	else
 		CC_COMPARATOR_result_Out=0;
-	end
 
 endmodule
 

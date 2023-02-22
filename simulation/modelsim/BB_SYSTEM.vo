@@ -17,7 +17,7 @@
 // PROGRAM "Quartus Prime"
 // VERSION "Version 19.1.0 Build 670 09/22/2019 SJ Lite Edition"
 
-// DATE "02/20/2023 07:18:00"
+// DATE "02/22/2023 12:48:23"
 
 // 
 // Device: Altera EP4CE22F17C6 Package FBGA256
@@ -52,79 +52,79 @@ input 	[7:0] BB_SYSTEM_x3_InBUS;
 input 	[7:0] BB_SYSTEM_w3_InBUS;
 
 // Design Ports Information
-// BB_SYSTEM_y0_Out	=>  Location: PIN_G2,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[7]	=>  Location: PIN_L1,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[6]	=>  Location: PIN_F2,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[5]	=>  Location: PIN_J2,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[4]	=>  Location: PIN_G5,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[3]	=>  Location: PIN_F3,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[2]	=>  Location: PIN_D1,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[1]	=>  Location: PIN_G1,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_t0_InBUS[0]	=>  Location: PIN_F1,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[0]	=>  Location: PIN_B5,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[1]	=>  Location: PIN_A3,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[2]	=>  Location: PIN_M7,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[3]	=>  Location: PIN_F8,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[4]	=>  Location: PIN_B7,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[5]	=>  Location: PIN_A10,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[6]	=>  Location: PIN_C6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x3_InBUS[7]	=>  Location: PIN_R6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[0]	=>  Location: PIN_A4,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[1]	=>  Location: PIN_D8,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[2]	=>  Location: PIN_T6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[3]	=>  Location: PIN_A2,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[4]	=>  Location: PIN_E8,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_y0_Out	=>  Location: PIN_A2,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[7]	=>  Location: PIN_B6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[6]	=>  Location: PIN_D6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[5]	=>  Location: PIN_B3,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[4]	=>  Location: PIN_B4,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[3]	=>  Location: PIN_C2,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[2]	=>  Location: PIN_E9,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[1]	=>  Location: PIN_B5,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_t0_InBUS[0]	=>  Location: PIN_B1,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[0]	=>  Location: PIN_E7,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[1]	=>  Location: PIN_E8,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[2]	=>  Location: PIN_C8,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[3]	=>  Location: PIN_J1,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[4]	=>  Location: PIN_F8,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[5]	=>  Location: PIN_G5,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[6]	=>  Location: PIN_D3,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x3_InBUS[7]	=>  Location: PIN_A4,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[0]	=>  Location: PIN_R6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[1]	=>  Location: PIN_T6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[2]	=>  Location: PIN_L3,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[3]	=>  Location: PIN_G2,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[4]	=>  Location: PIN_J2,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w3_InBUS[5]	=>  Location: PIN_A9,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w3_InBUS[6]	=>  Location: PIN_B9,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w3_InBUS[7]	=>  Location: PIN_A7,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w3_InBUS[7]	=>  Location: PIN_A3,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_x2_InBUS[0]	=>  Location: PIN_A8,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_x2_InBUS[1]	=>  Location: PIN_B8,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[2]	=>  Location: PIN_B6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[3]	=>  Location: PIN_A5,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[4]	=>  Location: PIN_A6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[5]	=>  Location: PIN_C3,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[6]	=>  Location: PIN_B4,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x2_InBUS[7]	=>  Location: PIN_B1,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[0]	=>  Location: PIN_D6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[1]	=>  Location: PIN_C2,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[2]	=>  Location: PIN_P6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[3]	=>  Location: PIN_E7,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[4]	=>  Location: PIN_E6,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[5]	=>  Location: PIN_C8,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w2_InBUS[6]	=>  Location: PIN_D9,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[2]	=>  Location: PIN_F1,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[3]	=>  Location: PIN_F2,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[4]	=>  Location: PIN_F13,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[5]	=>  Location: PIN_G1,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[6]	=>  Location: PIN_A6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x2_InBUS[7]	=>  Location: PIN_D8,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[0]	=>  Location: PIN_C6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[1]	=>  Location: PIN_A5,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[2]	=>  Location: PIN_E6,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[3]	=>  Location: PIN_B7,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[4]	=>  Location: PIN_F3,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[5]	=>  Location: PIN_D1,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w2_InBUS[6]	=>  Location: PIN_A7,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w2_InBUS[7]	=>  Location: PIN_D5,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[0]	=>  Location: PIN_B12,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[1]	=>  Location: PIN_A15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[2]	=>  Location: PIN_F9,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[3]	=>  Location: PIN_B11,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[4]	=>  Location: PIN_A14,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[5]	=>  Location: PIN_A13,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[6]	=>  Location: PIN_D16,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x1_InBUS[7]	=>  Location: PIN_B10,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[0]	=>  Location: PIN_J16,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[1]	=>  Location: PIN_D15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[2]	=>  Location: PIN_B13,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[3]	=>  Location: PIN_A11,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[4]	=>  Location: PIN_G15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[5]	=>  Location: PIN_J13,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[6]	=>  Location: PIN_A12,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w1_InBUS[7]	=>  Location: PIN_F14,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[0]	=>  Location: PIN_G16,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[1]	=>  Location: PIN_F13,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[2]	=>  Location: PIN_E10,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[3]	=>  Location: PIN_D14,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[4]	=>  Location: PIN_B14,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[5]	=>  Location: PIN_F15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_x0_InBUS[6]	=>  Location: PIN_E11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[0]	=>  Location: PIN_B11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[1]	=>  Location: PIN_F14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[2]	=>  Location: PIN_B10,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[3]	=>  Location: PIN_A11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[4]	=>  Location: PIN_D12,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[5]	=>  Location: PIN_B16,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[6]	=>  Location: PIN_D15,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x1_InBUS[7]	=>  Location: PIN_J13,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[0]	=>  Location: PIN_D14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[1]	=>  Location: PIN_E11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[2]	=>  Location: PIN_A12,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[3]	=>  Location: PIN_C16,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[4]	=>  Location: PIN_F15,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[5]	=>  Location: PIN_D9,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[6]	=>  Location: PIN_B13,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w1_InBUS[7]	=>  Location: PIN_C11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[0]	=>  Location: PIN_B12,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[1]	=>  Location: PIN_D16,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[2]	=>  Location: PIN_C14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[3]	=>  Location: PIN_F9,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[4]	=>  Location: PIN_E10,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[5]	=>  Location: PIN_A10,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_x0_InBUS[6]	=>  Location: PIN_C15,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_x0_InBUS[7]	=>  Location: PIN_M16,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w0_InBUS[0]	=>  Location: PIN_M15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w0_InBUS[1]	=>  Location: PIN_J14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w0_InBUS[1]	=>  Location: PIN_A15,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w0_InBUS[2]	=>  Location: PIN_E16,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // BB_SYSTEM_w0_InBUS[3]	=>  Location: PIN_E15,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w0_InBUS[4]	=>  Location: PIN_C11,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w0_InBUS[5]	=>  Location: PIN_C16,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w0_InBUS[6]	=>  Location: PIN_B16,	 I/O Standard: 2.5 V,	 Current Strength: Default
-// BB_SYSTEM_w0_InBUS[7]	=>  Location: PIN_C15,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w0_InBUS[4]	=>  Location: PIN_B14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w0_InBUS[5]	=>  Location: PIN_D11,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w0_InBUS[6]	=>  Location: PIN_A14,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// BB_SYSTEM_w0_InBUS[7]	=>  Location: PIN_A13,	 I/O Standard: 2.5 V,	 Current Strength: Default
 
 
 wire gnd;
@@ -183,42 +183,6 @@ wire \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT15 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~0 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~1 ;
 wire \BB_SYSTEM_y0_Out~output_o ;
-wire \BB_SYSTEM_t0_InBUS[7]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[0]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[1]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[2]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[3]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[4]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[5]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[6]~input_o ;
-wire \BB_SYSTEM_x2_InBUS[7]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[0]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[1]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[2]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[3]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[4]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[5]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[6]~input_o ;
-wire \BB_SYSTEM_w2_InBUS[7]~input_o ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~dataout ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT1 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT2 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT3 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT4 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT5 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT6 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT7 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT8 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT9 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT10 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT11 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT12 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT13 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT14 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT15 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~0 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~1 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7 ;
 wire \BB_SYSTEM_x3_InBUS[0]~input_o ;
 wire \BB_SYSTEM_x3_InBUS[1]~input_o ;
 wire \BB_SYSTEM_x3_InBUS[2]~input_o ;
@@ -254,20 +218,55 @@ wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1~DATAOUT15 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1~0 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1~1 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT7 ;
+wire \BB_SYSTEM_x2_InBUS[0]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[1]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[2]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[3]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[4]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[5]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[6]~input_o ;
+wire \BB_SYSTEM_x2_InBUS[7]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[0]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[1]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[2]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[3]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[4]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[5]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[6]~input_o ;
+wire \BB_SYSTEM_w2_InBUS[7]~input_o ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~dataout ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT1 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT2 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT3 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT4 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT5 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT6 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT7 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT8 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT9 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT10 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT11 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT12 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT13 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT14 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT15 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~0 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~1 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT6 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT6 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT4 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT4 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT3 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT3 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1 ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1 ;
-wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1 ;
 wire \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout ;
+wire \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~5 ;
@@ -368,18 +367,18 @@ wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~9 ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~11 ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~13 ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14_combout ;
-wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout ;
+wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10_combout ;
-wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout ;
-wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout ;
+wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout ;
-wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout ;
+wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout ;
-wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout ;
+wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout ;
+wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0_combout ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ;
@@ -390,18 +389,19 @@ wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~9 ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~13 ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout ;
+wire \BB_SYSTEM_t0_InBUS[7]~input_o ;
 wire \BB_SYSTEM_t0_InBUS[6]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout ;
 wire \BB_SYSTEM_t0_InBUS[5]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout ;
 wire \BB_SYSTEM_t0_InBUS[4]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout ;
-wire \BB_SYSTEM_t0_InBUS[3]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout ;
-wire \BB_SYSTEM_t0_InBUS[2]~input_o ;
+wire \BB_SYSTEM_t0_InBUS[3]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout ;
-wire \BB_SYSTEM_t0_InBUS[1]~input_o ;
+wire \BB_SYSTEM_t0_InBUS[2]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout ;
+wire \BB_SYSTEM_t0_InBUS[1]~input_o ;
 wire \BB_SYSTEM_t0_InBUS[0]~input_o ;
 wire \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0_combout ;
 wire \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout ;
@@ -579,9 +579,9 @@ hard_block auto_generated_inst(
 	.devclrn(devclrn),
 	.devoe(devoe));
 
-// Location: IOOBUF_X0_Y23_N16
+// Location: IOOBUF_X7_Y34_N9
 cycloneive_io_obuf \BB_SYSTEM_y0_Out~output (
-	.i(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14_combout ),
+	.i(!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14_combout ),
 	.oe(vcc),
 	.seriesterminationcontrol(16'b0000000000000000),
 	.devoe(devoe),
@@ -592,217 +592,7 @@ defparam \BB_SYSTEM_y0_Out~output .bus_hold = "false";
 defparam \BB_SYSTEM_y0_Out~output .open_drain_output = "false";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y11_N8
-cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[7]~input (
-	.i(BB_SYSTEM_t0_InBUS[7]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_t0_InBUS[7]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_t0_InBUS[7]~input .bus_hold = "false";
-defparam \BB_SYSTEM_t0_InBUS[7]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X25_Y34_N15
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[0]~input (
-	.i(BB_SYSTEM_x2_InBUS[0]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[0]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[0]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[0]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X25_Y34_N22
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[1]~input (
-	.i(BB_SYSTEM_x2_InBUS[1]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[1]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[1]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[1]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X16_Y34_N8
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[2]~input (
-	.i(BB_SYSTEM_x2_InBUS[2]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[2]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[2]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[2]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X14_Y34_N22
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[3]~input (
-	.i(BB_SYSTEM_x2_InBUS[3]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[3]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[3]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[3]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X16_Y34_N1
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[4]~input (
-	.i(BB_SYSTEM_x2_InBUS[4]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[4]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[4]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[4]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X1_Y34_N1
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[5]~input (
-	.i(BB_SYSTEM_x2_InBUS[5]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[5]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[5]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[5]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X7_Y34_N1
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[6]~input (
-	.i(BB_SYSTEM_x2_InBUS[6]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[6]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[6]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[6]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X0_Y28_N8
-cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[7]~input (
-	.i(BB_SYSTEM_x2_InBUS[7]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_x2_InBUS[7]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_x2_InBUS[7]~input .bus_hold = "false";
-defparam \BB_SYSTEM_x2_InBUS[7]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X9_Y34_N8
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[0]~input (
-	.i(BB_SYSTEM_w2_InBUS[0]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[0]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[0]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[0]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X0_Y27_N1
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[1]~input (
-	.i(BB_SYSTEM_w2_InBUS[1]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[1]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[1]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[1]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X11_Y0_N22
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[2]~input (
-	.i(BB_SYSTEM_w2_InBUS[2]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[2]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[2]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[2]~input .simulate_z_as = "z";
-// synopsys translate_on
-
 // Location: IOIBUF_X16_Y34_N15
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[3]~input (
-	.i(BB_SYSTEM_w2_InBUS[3]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[3]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[3]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[3]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X14_Y34_N15
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[4]~input (
-	.i(BB_SYSTEM_w2_InBUS[4]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[4]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[4]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[4]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X23_Y34_N15
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[5]~input (
-	.i(BB_SYSTEM_w2_InBUS[5]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[5]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[5]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[5]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X31_Y34_N8
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[6]~input (
-	.i(BB_SYSTEM_w2_InBUS[6]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[6]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[6]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[6]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: IOIBUF_X5_Y34_N15
-cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[7]~input (
-	.i(BB_SYSTEM_w2_InBUS[7]),
-	.ibar(gnd),
-	.o(\BB_SYSTEM_w2_InBUS[7]~input_o ));
-// synopsys translate_off
-defparam \BB_SYSTEM_w2_InBUS[7]~input .bus_hold = "false";
-defparam \BB_SYSTEM_w2_InBUS[7]~input .simulate_z_as = "z";
-// synopsys translate_on
-
-// Location: DSPMULT_X13_Y30_N1
-cycloneive_mac_mult \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 (
-	.signa(gnd),
-	.signb(gnd),
-	.clk(gnd),
-	.aclr(gnd),
-	.ena(vcc),
-	.dataa({\BB_SYSTEM_x2_InBUS[7]~input_o ,\BB_SYSTEM_x2_InBUS[6]~input_o ,\BB_SYSTEM_x2_InBUS[5]~input_o ,\BB_SYSTEM_x2_InBUS[4]~input_o ,\BB_SYSTEM_x2_InBUS[3]~input_o ,\BB_SYSTEM_x2_InBUS[2]~input_o ,\BB_SYSTEM_x2_InBUS[1]~input_o ,\BB_SYSTEM_x2_InBUS[0]~input_o ,gnd}),
-	.datab({\BB_SYSTEM_w2_InBUS[7]~input_o ,\BB_SYSTEM_w2_InBUS[6]~input_o ,\BB_SYSTEM_w2_InBUS[5]~input_o ,\BB_SYSTEM_w2_InBUS[4]~input_o ,\BB_SYSTEM_w2_InBUS[3]~input_o ,\BB_SYSTEM_w2_InBUS[2]~input_o ,\BB_SYSTEM_w2_InBUS[1]~input_o ,\BB_SYSTEM_w2_InBUS[0]~input_o ,gnd}),
-	.devclrn(devclrn),
-	.devpor(devpor),
-	.dataout(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1_DATAOUT_bus ));
-// synopsys translate_off
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .dataa_clock = "none";
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .dataa_width = 9;
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .datab_clock = "none";
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .datab_width = 9;
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .signa_clock = "none";
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .signb_clock = "none";
-// synopsys translate_on
-
-// Location: DSPOUT_X13_Y30_N3
-cycloneive_mac_out \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 (
-	.clk(gnd),
-	.aclr(gnd),
-	.ena(vcc),
-	.dataa({\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT15 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT14 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT13 ,
-\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT12 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT11 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT10 ,
-\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT9 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT8 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT7 ,
-\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT6 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT5 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT4 ,
-\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT3 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT2 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT1 ,
-\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~dataout ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~1 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~0 }),
-	.devclrn(devclrn),
-	.devpor(devpor),
-	.dataout(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2_DATAOUT_bus ));
-// synopsys translate_off
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 .dataa_width = 18;
-defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 .output_clock = "none";
-// synopsys translate_on
-
-// Location: IOIBUF_X11_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[0]~input (
 	.i(BB_SYSTEM_x3_InBUS[0]),
 	.ibar(gnd),
@@ -812,7 +602,7 @@ defparam \BB_SYSTEM_x3_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X7_Y34_N15
+// Location: IOIBUF_X20_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[1]~input (
 	.i(BB_SYSTEM_x3_InBUS[1]),
 	.ibar(gnd),
@@ -822,7 +612,7 @@ defparam \BB_SYSTEM_x3_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X11_Y0_N15
+// Location: IOIBUF_X23_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[2]~input (
 	.i(BB_SYSTEM_x3_InBUS[2]),
 	.ibar(gnd),
@@ -832,7 +622,7 @@ defparam \BB_SYSTEM_x3_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X20_Y34_N15
+// Location: IOIBUF_X0_Y15_N8
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[3]~input (
 	.i(BB_SYSTEM_x3_InBUS[3]),
 	.ibar(gnd),
@@ -842,7 +632,7 @@ defparam \BB_SYSTEM_x3_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X18_Y34_N1
+// Location: IOIBUF_X20_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[4]~input (
 	.i(BB_SYSTEM_x3_InBUS[4]),
 	.ibar(gnd),
@@ -852,7 +642,7 @@ defparam \BB_SYSTEM_x3_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X34_Y34_N8
+// Location: IOIBUF_X0_Y24_N15
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[5]~input (
 	.i(BB_SYSTEM_x3_InBUS[5]),
 	.ibar(gnd),
@@ -862,7 +652,7 @@ defparam \BB_SYSTEM_x3_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X18_Y34_N22
+// Location: IOIBUF_X1_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[6]~input (
 	.i(BB_SYSTEM_x3_InBUS[6]),
 	.ibar(gnd),
@@ -872,7 +662,7 @@ defparam \BB_SYSTEM_x3_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X14_Y0_N8
+// Location: IOIBUF_X9_Y34_N22
 cycloneive_io_ibuf \BB_SYSTEM_x3_InBUS[7]~input (
 	.i(BB_SYSTEM_x3_InBUS[7]),
 	.ibar(gnd),
@@ -882,7 +672,7 @@ defparam \BB_SYSTEM_x3_InBUS[7]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x3_InBUS[7]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X9_Y34_N22
+// Location: IOIBUF_X14_Y0_N8
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[0]~input (
 	.i(BB_SYSTEM_w3_InBUS[0]),
 	.ibar(gnd),
@@ -892,7 +682,7 @@ defparam \BB_SYSTEM_w3_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X23_Y34_N22
+// Location: IOIBUF_X14_Y0_N1
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[1]~input (
 	.i(BB_SYSTEM_w3_InBUS[1]),
 	.ibar(gnd),
@@ -902,7 +692,7 @@ defparam \BB_SYSTEM_w3_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X14_Y0_N1
+// Location: IOIBUF_X0_Y10_N22
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[2]~input (
 	.i(BB_SYSTEM_w3_InBUS[2]),
 	.ibar(gnd),
@@ -912,7 +702,7 @@ defparam \BB_SYSTEM_w3_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X7_Y34_N8
+// Location: IOIBUF_X0_Y23_N15
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[3]~input (
 	.i(BB_SYSTEM_w3_InBUS[3]),
 	.ibar(gnd),
@@ -922,7 +712,7 @@ defparam \BB_SYSTEM_w3_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X20_Y34_N8
+// Location: IOIBUF_X0_Y15_N1
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[4]~input (
 	.i(BB_SYSTEM_w3_InBUS[4]),
 	.ibar(gnd),
@@ -952,7 +742,7 @@ defparam \BB_SYSTEM_w3_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X20_Y34_N22
+// Location: IOIBUF_X7_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_w3_InBUS[7]~input (
 	.i(BB_SYSTEM_w3_InBUS[7]),
 	.ibar(gnd),
@@ -962,7 +752,7 @@ defparam \BB_SYSTEM_w3_InBUS[7]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w3_InBUS[7]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: DSPMULT_X13_Y30_N0
+// Location: DSPMULT_X13_Y28_N0
 cycloneive_mac_mult \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1 (
 	.signa(gnd),
 	.signb(gnd),
@@ -983,7 +773,7 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1 .signa_cl
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_mult1 .signb_clock = "none";
 // synopsys translate_on
 
-// Location: DSPOUT_X13_Y30_N2
+// Location: DSPOUT_X13_Y28_N2
 cycloneive_mac_out \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2 (
 	.clk(gnd),
 	.aclr(gnd),
@@ -1002,15 +792,215 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2 .dataa_wid
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2 .output_clock = "none";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N12
+// Location: IOIBUF_X25_Y34_N15
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[0]~input (
+	.i(BB_SYSTEM_x2_InBUS[0]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[0]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[0]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[0]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X25_Y34_N22
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[1]~input (
+	.i(BB_SYSTEM_x2_InBUS[1]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[1]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[1]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[1]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X0_Y23_N1
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[2]~input (
+	.i(BB_SYSTEM_x2_InBUS[2]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[2]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[2]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[2]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X0_Y24_N22
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[3]~input (
+	.i(BB_SYSTEM_x2_InBUS[3]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[3]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[3]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[3]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X53_Y21_N22
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[4]~input (
+	.i(BB_SYSTEM_x2_InBUS[4]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[4]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[4]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[4]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X0_Y23_N22
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[5]~input (
+	.i(BB_SYSTEM_x2_InBUS[5]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[5]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[5]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[5]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X16_Y34_N1
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[6]~input (
+	.i(BB_SYSTEM_x2_InBUS[6]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[6]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[6]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[6]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X23_Y34_N22
+cycloneive_io_ibuf \BB_SYSTEM_x2_InBUS[7]~input (
+	.i(BB_SYSTEM_x2_InBUS[7]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_x2_InBUS[7]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_x2_InBUS[7]~input .bus_hold = "false";
+defparam \BB_SYSTEM_x2_InBUS[7]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X18_Y34_N22
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[0]~input (
+	.i(BB_SYSTEM_w2_InBUS[0]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[0]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[0]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[0]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X14_Y34_N22
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[1]~input (
+	.i(BB_SYSTEM_w2_InBUS[1]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[1]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[1]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[1]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X14_Y34_N15
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[2]~input (
+	.i(BB_SYSTEM_w2_InBUS[2]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[2]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[2]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[2]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X18_Y34_N1
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[3]~input (
+	.i(BB_SYSTEM_w2_InBUS[3]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[3]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[3]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[3]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X0_Y26_N15
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[4]~input (
+	.i(BB_SYSTEM_w2_InBUS[4]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[4]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[4]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[4]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X0_Y25_N8
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[5]~input (
+	.i(BB_SYSTEM_w2_InBUS[5]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[5]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[5]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[5]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X20_Y34_N22
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[6]~input (
+	.i(BB_SYSTEM_w2_InBUS[6]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[6]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[6]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[6]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X5_Y34_N15
+cycloneive_io_ibuf \BB_SYSTEM_w2_InBUS[7]~input (
+	.i(BB_SYSTEM_w2_InBUS[7]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_w2_InBUS[7]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_w2_InBUS[7]~input .bus_hold = "false";
+defparam \BB_SYSTEM_w2_InBUS[7]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: DSPMULT_X13_Y28_N1
+cycloneive_mac_mult \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 (
+	.signa(gnd),
+	.signb(gnd),
+	.clk(gnd),
+	.aclr(gnd),
+	.ena(vcc),
+	.dataa({\BB_SYSTEM_x2_InBUS[7]~input_o ,\BB_SYSTEM_x2_InBUS[6]~input_o ,\BB_SYSTEM_x2_InBUS[5]~input_o ,\BB_SYSTEM_x2_InBUS[4]~input_o ,\BB_SYSTEM_x2_InBUS[3]~input_o ,\BB_SYSTEM_x2_InBUS[2]~input_o ,\BB_SYSTEM_x2_InBUS[1]~input_o ,\BB_SYSTEM_x2_InBUS[0]~input_o ,gnd}),
+	.datab({\BB_SYSTEM_w2_InBUS[7]~input_o ,\BB_SYSTEM_w2_InBUS[6]~input_o ,\BB_SYSTEM_w2_InBUS[5]~input_o ,\BB_SYSTEM_w2_InBUS[4]~input_o ,\BB_SYSTEM_w2_InBUS[3]~input_o ,\BB_SYSTEM_w2_InBUS[2]~input_o ,\BB_SYSTEM_w2_InBUS[1]~input_o ,\BB_SYSTEM_w2_InBUS[0]~input_o ,gnd}),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.dataout(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1_DATAOUT_bus ));
+// synopsys translate_off
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .dataa_clock = "none";
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .dataa_width = 9;
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .datab_clock = "none";
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .datab_width = 9;
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .signa_clock = "none";
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1 .signb_clock = "none";
+// synopsys translate_on
+
+// Location: DSPOUT_X13_Y28_N3
+cycloneive_mac_out \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 (
+	.clk(gnd),
+	.aclr(gnd),
+	.ena(vcc),
+	.dataa({\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT15 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT14 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT13 ,
+\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT12 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT11 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT10 ,
+\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT9 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT8 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT7 ,
+\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT6 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT5 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT4 ,
+\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT3 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT2 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~DATAOUT1 ,
+\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~dataout ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~1 ,\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_mult1~0 }),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.dataout(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2_DATAOUT_bus ));
+// synopsys translate_off
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 .dataa_width = 18;
+defparam \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2 .output_clock = "none";
+// synopsys translate_on
+
+// Location: LCCOMB_X12_Y28_N16
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout  & (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout  $ (VCC))) # 
-// (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout  & (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout  & VCC))
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout  & \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout ))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout  & (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout  $ (VCC))) # 
+// (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout  & (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout  & VCC))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout  & \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout ))
 
-	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout ),
-	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout ),
+	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~dataout ),
+	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~dataout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(gnd),
@@ -1021,18 +1011,18 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0 .lut_mask = 16'h6688;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0 .sum_lutc_input = "datac";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N14
+// Location: LCCOMB_X12_Y28_N18
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & 
-// (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1  & VCC)) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 )))) # 
-// (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 )) # 
-// (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ) # (GND)))))
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 
-// )) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & ((!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1 ))))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & 
+// (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1  & VCC)) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 )))) # 
+// (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 )) # 
+// (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ) # (GND)))))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 
+// )) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1  & ((!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1 ))))
 
-	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1 ),
-	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1 ),
+	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT1 ),
+	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT1 ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~1 ),
@@ -1043,17 +1033,17 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N16
+// Location: LCCOMB_X12_Y28_N20
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2  $ (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2  $ 
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2  $ (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2  $ 
 // (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 )))) # (GND)
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~5  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2 ) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 ))) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2  & (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~5  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2  & ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2 ) # 
+// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 ))) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2  & (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 
 // )))
 
-	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2 ),
-	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2 ),
+	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT2 ),
+	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT2 ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~3 ),
@@ -1064,7 +1054,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N18
+// Location: LCCOMB_X12_Y28_N22
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT3  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT3  & 
@@ -1086,7 +1076,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N20
+// Location: LCCOMB_X12_Y28_N24
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT4  $ (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT4  $ 
@@ -1107,18 +1097,18 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N22
+// Location: LCCOMB_X12_Y28_N26
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & 
-// (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9  & VCC)) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 )))) # 
-// (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 )) # 
-// (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 ) # (GND)))))
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~11  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 
-// )) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & ((!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 ) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5 ))))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & 
+// (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9  & VCC)) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 )))) # 
+// (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 )) # 
+// (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 ) # (GND)))))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~11  = CARRY((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5  & !\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 
+// )) # (!\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5  & ((!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 ) # (!\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5 ))))
 
-	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5 ),
-	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5 ),
+	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT5 ),
+	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT5 ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~9 ),
@@ -1129,7 +1119,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N24
+// Location: LCCOMB_X12_Y28_N28
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT6  $ (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT6  $ 
@@ -1150,25 +1140,25 @@ defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y30_N26
+// Location: LCCOMB_X12_Y28_N30
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14_combout  = \CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7  $ (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~13  $ 
-// (\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT7 ))
+// \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14_combout  = \CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT7  $ (\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7  $ 
+// (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~13 ))
 
-	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7 ),
-	.datab(gnd),
+	.dataa(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT7 ),
+	.datab(\CC_NEURON_u0|CC_MULTIPLIER_u2|Mult0|auto_generated|mac_out2~DATAOUT7 ),
 	.datac(gnd),
-	.datad(\CC_NEURON_u0|CC_MULTIPLIER_u3|Mult0|auto_generated|mac_out2~DATAOUT7 ),
+	.datad(gnd),
 	.cin(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~13 ),
 	.combout(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14_combout ),
 	.cout());
 // synopsys translate_off
-defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14 .lut_mask = 16'hA55A;
+defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14 .lut_mask = 16'h9696;
 defparam \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y20_N22
+// Location: IOIBUF_X43_Y34_N22
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[0]~input (
 	.i(BB_SYSTEM_x0_InBUS[0]),
 	.ibar(gnd),
@@ -1178,7 +1168,7 @@ defparam \BB_SYSTEM_x0_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y21_N22
+// Location: IOIBUF_X53_Y25_N1
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[1]~input (
 	.i(BB_SYSTEM_x0_InBUS[1]),
 	.ibar(gnd),
@@ -1188,7 +1178,7 @@ defparam \BB_SYSTEM_x0_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X45_Y34_N15
+// Location: IOIBUF_X51_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[2]~input (
 	.i(BB_SYSTEM_x0_InBUS[2]),
 	.ibar(gnd),
@@ -1198,7 +1188,7 @@ defparam \BB_SYSTEM_x0_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X51_Y34_N8
+// Location: IOIBUF_X34_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[3]~input (
 	.i(BB_SYSTEM_x0_InBUS[3]),
 	.ibar(gnd),
@@ -1208,7 +1198,7 @@ defparam \BB_SYSTEM_x0_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X45_Y34_N1
+// Location: IOIBUF_X45_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[4]~input (
 	.i(BB_SYSTEM_x0_InBUS[4]),
 	.ibar(gnd),
@@ -1218,7 +1208,7 @@ defparam \BB_SYSTEM_x0_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y22_N8
+// Location: IOIBUF_X34_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[5]~input (
 	.i(BB_SYSTEM_x0_InBUS[5]),
 	.ibar(gnd),
@@ -1228,7 +1218,7 @@ defparam \BB_SYSTEM_x0_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x0_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X45_Y34_N8
+// Location: IOIBUF_X53_Y30_N1
 cycloneive_io_ibuf \BB_SYSTEM_x0_InBUS[6]~input (
 	.i(BB_SYSTEM_x0_InBUS[6]),
 	.ibar(gnd),
@@ -1258,7 +1248,7 @@ defparam \BB_SYSTEM_w0_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y15_N8
+// Location: IOIBUF_X38_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_w0_InBUS[1]~input (
 	.i(BB_SYSTEM_w0_InBUS[1]),
 	.ibar(gnd),
@@ -1288,7 +1278,7 @@ defparam \BB_SYSTEM_w0_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X38_Y34_N1
+// Location: IOIBUF_X45_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_w0_InBUS[4]~input (
 	.i(BB_SYSTEM_w0_InBUS[4]),
 	.ibar(gnd),
@@ -1298,7 +1288,7 @@ defparam \BB_SYSTEM_w0_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y30_N8
+// Location: IOIBUF_X51_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_w0_InBUS[5]~input (
 	.i(BB_SYSTEM_w0_InBUS[5]),
 	.ibar(gnd),
@@ -1308,7 +1298,7 @@ defparam \BB_SYSTEM_w0_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y22_N1
+// Location: IOIBUF_X47_Y34_N22
 cycloneive_io_ibuf \BB_SYSTEM_w0_InBUS[6]~input (
 	.i(BB_SYSTEM_w0_InBUS[6]),
 	.ibar(gnd),
@@ -1318,7 +1308,7 @@ defparam \BB_SYSTEM_w0_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y30_N1
+// Location: IOIBUF_X49_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_w0_InBUS[7]~input (
 	.i(BB_SYSTEM_w0_InBUS[7]),
 	.ibar(gnd),
@@ -1328,7 +1318,7 @@ defparam \BB_SYSTEM_w0_InBUS[7]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w0_InBUS[7]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: DSPMULT_X42_Y27_N1
+// Location: DSPMULT_X42_Y30_N1
 cycloneive_mac_mult \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_mult1 (
 	.signa(gnd),
 	.signb(gnd),
@@ -1349,7 +1339,7 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_mult1 .signa_cl
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_mult1 .signb_clock = "none";
 // synopsys translate_on
 
-// Location: DSPOUT_X42_Y27_N3
+// Location: DSPOUT_X42_Y30_N3
 cycloneive_mac_out \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2 (
 	.clk(gnd),
 	.aclr(gnd),
@@ -1368,7 +1358,7 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2 .dataa_wid
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2 .output_clock = "none";
 // synopsys translate_on
 
-// Location: IOIBUF_X43_Y34_N22
+// Location: IOIBUF_X40_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[0]~input (
 	.i(BB_SYSTEM_x1_InBUS[0]),
 	.ibar(gnd),
@@ -1378,7 +1368,7 @@ defparam \BB_SYSTEM_x1_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X38_Y34_N15
+// Location: IOIBUF_X53_Y24_N22
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[1]~input (
 	.i(BB_SYSTEM_x1_InBUS[1]),
 	.ibar(gnd),
@@ -1388,7 +1378,7 @@ defparam \BB_SYSTEM_x1_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X34_Y34_N1
+// Location: IOIBUF_X34_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[2]~input (
 	.i(BB_SYSTEM_x1_InBUS[2]),
 	.ibar(gnd),
@@ -1398,7 +1388,7 @@ defparam \BB_SYSTEM_x1_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X40_Y34_N8
+// Location: IOIBUF_X40_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[3]~input (
 	.i(BB_SYSTEM_x1_InBUS[3]),
 	.ibar(gnd),
@@ -1408,7 +1398,7 @@ defparam \BB_SYSTEM_x1_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X47_Y34_N22
+// Location: IOIBUF_X51_Y34_N22
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[4]~input (
 	.i(BB_SYSTEM_x1_InBUS[4]),
 	.ibar(gnd),
@@ -1418,7 +1408,7 @@ defparam \BB_SYSTEM_x1_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X49_Y34_N1
+// Location: IOIBUF_X53_Y22_N1
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[5]~input (
 	.i(BB_SYSTEM_x1_InBUS[5]),
 	.ibar(gnd),
@@ -1428,7 +1418,7 @@ defparam \BB_SYSTEM_x1_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y25_N1
+// Location: IOIBUF_X53_Y26_N22
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[6]~input (
 	.i(BB_SYSTEM_x1_InBUS[6]),
 	.ibar(gnd),
@@ -1438,7 +1428,7 @@ defparam \BB_SYSTEM_x1_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X34_Y34_N15
+// Location: IOIBUF_X53_Y16_N8
 cycloneive_io_ibuf \BB_SYSTEM_x1_InBUS[7]~input (
 	.i(BB_SYSTEM_x1_InBUS[7]),
 	.ibar(gnd),
@@ -1448,7 +1438,7 @@ defparam \BB_SYSTEM_x1_InBUS[7]~input .bus_hold = "false";
 defparam \BB_SYSTEM_x1_InBUS[7]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y14_N8
+// Location: IOIBUF_X51_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[0]~input (
 	.i(BB_SYSTEM_w1_InBUS[0]),
 	.ibar(gnd),
@@ -1458,7 +1448,7 @@ defparam \BB_SYSTEM_w1_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y26_N22
+// Location: IOIBUF_X45_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[1]~input (
 	.i(BB_SYSTEM_w1_InBUS[1]),
 	.ibar(gnd),
@@ -1468,7 +1458,7 @@ defparam \BB_SYSTEM_w1_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X49_Y34_N8
+// Location: IOIBUF_X43_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[2]~input (
 	.i(BB_SYSTEM_w1_InBUS[2]),
 	.ibar(gnd),
@@ -1478,7 +1468,7 @@ defparam \BB_SYSTEM_w1_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X40_Y34_N1
+// Location: IOIBUF_X53_Y30_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[3]~input (
 	.i(BB_SYSTEM_w1_InBUS[3]),
 	.ibar(gnd),
@@ -1488,7 +1478,7 @@ defparam \BB_SYSTEM_w1_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y20_N15
+// Location: IOIBUF_X53_Y22_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[4]~input (
 	.i(BB_SYSTEM_w1_InBUS[4]),
 	.ibar(gnd),
@@ -1498,7 +1488,7 @@ defparam \BB_SYSTEM_w1_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y16_N8
+// Location: IOIBUF_X31_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[5]~input (
 	.i(BB_SYSTEM_w1_InBUS[5]),
 	.ibar(gnd),
@@ -1508,7 +1498,7 @@ defparam \BB_SYSTEM_w1_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X43_Y34_N15
+// Location: IOIBUF_X49_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[6]~input (
 	.i(BB_SYSTEM_w1_InBUS[6]),
 	.ibar(gnd),
@@ -1518,7 +1508,7 @@ defparam \BB_SYSTEM_w1_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X53_Y24_N22
+// Location: IOIBUF_X38_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_w1_InBUS[7]~input (
 	.i(BB_SYSTEM_w1_InBUS[7]),
 	.ibar(gnd),
@@ -1528,7 +1518,7 @@ defparam \BB_SYSTEM_w1_InBUS[7]~input .bus_hold = "false";
 defparam \BB_SYSTEM_w1_InBUS[7]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: DSPMULT_X42_Y27_N0
+// Location: DSPMULT_X42_Y30_N0
 cycloneive_mac_mult \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_mult1 (
 	.signa(gnd),
 	.signb(gnd),
@@ -1549,7 +1539,7 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_mult1 .signa_cl
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_mult1 .signb_clock = "none";
 // synopsys translate_on
 
-// Location: DSPOUT_X42_Y27_N2
+// Location: DSPOUT_X42_Y30_N2
 cycloneive_mac_out \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2 (
 	.clk(gnd),
 	.aclr(gnd),
@@ -1568,7 +1558,7 @@ defparam \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2 .dataa_wid
 defparam \CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2 .output_clock = "none";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N0
+// Location: LCCOMB_X41_Y30_N0
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~dataout  & (\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~dataout  $ (VCC))) # 
@@ -1587,7 +1577,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0 .lut_mask = 16'h6688;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0 .sum_lutc_input = "datac";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N2
+// Location: LCCOMB_X41_Y30_N2
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT1  & ((\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT1  & 
@@ -1609,7 +1599,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N4
+// Location: LCCOMB_X41_Y30_N4
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT2  $ (\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT2  $ 
@@ -1630,7 +1620,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N6
+// Location: LCCOMB_X41_Y30_N6
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT3  & ((\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT3  & 
@@ -1652,7 +1642,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N8
+// Location: LCCOMB_X41_Y30_N8
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT4  $ (\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT4  $ 
@@ -1673,7 +1663,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N10
+// Location: LCCOMB_X41_Y30_N10
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10_combout  = (\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT5  & ((\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT5  & 
@@ -1695,7 +1685,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N12
+// Location: LCCOMB_X41_Y30_N12
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  = ((\CC_NEURON_u0|CC_MULTIPLIER_u1|Mult0|auto_generated|mac_out2~DATAOUT6  $ (\CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT6  $ 
@@ -1716,7 +1706,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X41_Y27_N14
+// Location: LCCOMB_X41_Y30_N14
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14_combout  = \CC_NEURON_u0|CC_MULTIPLIER_u0|Mult0|auto_generated|mac_out2~DATAOUT7  $ (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~13  $ 
@@ -1734,7 +1724,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14 .lut_mask = 16'hC33C;
 defparam \CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N6
+// Location: LCCOMB_X12_Y28_N0
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0_combout  = (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0_combout  & (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[0]~0_combout  $ (VCC))) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[0]~0_combout  & 
@@ -1753,17 +1743,17 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0 .lut_mask = 16'h6688;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0 .sum_lutc_input = "datac";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N8
+// Location: LCCOMB_X12_Y28_N2
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout  = (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1  & VCC)) # 
-// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )))) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & 
-// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ) # (GND)))))
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3  = CARRY((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & ((!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout ))))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout  = (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1  & VCC)) # 
+// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )))) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ) # (GND)))))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3  = CARRY((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 )) # 
+// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout  & ((!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout ))))
 
-	.dataa(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[1]~2_combout ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[1]~2_combout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~1 ),
@@ -1774,15 +1764,15 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N10
+// Location: LCCOMB_X12_Y28_N4
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout  = ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  $ (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 )))) # (GND)
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5  = CARRY((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 ))) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  & (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 )))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout  = ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  $ (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 )))) # (GND)
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5  = CARRY((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 ))) # 
+// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout  & (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 )))
 
-	.dataa(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[2]~4_combout ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[2]~4_combout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~3 ),
@@ -1793,17 +1783,17 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N12
+// Location: LCCOMB_X12_Y28_N6
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout  = (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5  & VCC)) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )))) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & 
-// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 ) # (GND)))))
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7  = CARRY((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )) # 
-// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & ((!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 ) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout ))))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout  = (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5  & VCC)) # 
+// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )))) # (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 ) # (GND)))))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7  = CARRY((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 )) # 
+// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout  & ((!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 ) # (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout ))))
 
-	.dataa(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[3]~6_combout ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[3]~6_combout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~5 ),
@@ -1814,15 +1804,15 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N14
+// Location: LCCOMB_X12_Y28_N8
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout  = ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  $ (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 )))) # (GND)
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~9  = CARRY((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 ))) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  & (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 )))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout  = ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  $ (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 )))) # (GND)
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~9  = CARRY((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 ))) # 
+// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout  & (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 )))
 
-	.dataa(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[4]~8_combout ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[4]~8_combout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~7 ),
@@ -1833,7 +1823,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N16
+// Location: LCCOMB_X12_Y28_N10
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout  = (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[5]~10_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[5]~10_combout  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~9  & VCC)) # 
@@ -1854,15 +1844,15 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10 .lut_mask = 16'h9617;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N18
+// Location: LCCOMB_X12_Y28_N12
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12 (
 // Equation(s):
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout  = ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  $ (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 )))) # (GND)
-// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~13  = CARRY((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  & ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 ))) # 
-// (!\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  & (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 )))
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout  = ((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  $ (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  $ (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 )))) # (GND)
+// \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~13  = CARRY((\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  & ((\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 ))) # 
+// (!\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout  & (\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 )))
 
-	.dataa(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[6]~12_combout ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[6]~12_combout ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~11 ),
@@ -1873,7 +1863,7 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12 .lut_mask = 16'h698E;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X14_Y28_N20
+// Location: LCCOMB_X12_Y28_N14
 cycloneive_lcell_comb \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14 (
 // Equation(s):
 // \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout  = \CC_NEURON_u0|CC_ADDER_u1|CC_ADDER_sum_Out[7]~14_combout  $ (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~13  $ (\CC_NEURON_u0|CC_ADDER_u0|CC_ADDER_sum_Out[7]~14_combout ))
@@ -1890,7 +1880,17 @@ defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14 .lut_mask = 16'hA55A;
 defparam \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y24_N22
+// Location: IOIBUF_X16_Y34_N8
+cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[7]~input (
+	.i(BB_SYSTEM_t0_InBUS[7]),
+	.ibar(gnd),
+	.o(\BB_SYSTEM_t0_InBUS[7]~input_o ));
+// synopsys translate_off
+defparam \BB_SYSTEM_t0_InBUS[7]~input .bus_hold = "false";
+defparam \BB_SYSTEM_t0_InBUS[7]~input .simulate_z_as = "z";
+// synopsys translate_on
+
+// Location: IOIBUF_X9_Y34_N8
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[6]~input (
 	.i(BB_SYSTEM_t0_InBUS[6]),
 	.ibar(gnd),
@@ -1900,7 +1900,7 @@ defparam \BB_SYSTEM_t0_InBUS[6]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[6]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y15_N1
+// Location: IOIBUF_X3_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[5]~input (
 	.i(BB_SYSTEM_t0_InBUS[5]),
 	.ibar(gnd),
@@ -1910,7 +1910,7 @@ defparam \BB_SYSTEM_t0_InBUS[5]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[5]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y24_N15
+// Location: IOIBUF_X7_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[4]~input (
 	.i(BB_SYSTEM_t0_InBUS[4]),
 	.ibar(gnd),
@@ -1920,7 +1920,7 @@ defparam \BB_SYSTEM_t0_InBUS[4]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[4]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y26_N15
+// Location: IOIBUF_X0_Y27_N1
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[3]~input (
 	.i(BB_SYSTEM_t0_InBUS[3]),
 	.ibar(gnd),
@@ -1930,7 +1930,7 @@ defparam \BB_SYSTEM_t0_InBUS[3]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[3]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y25_N8
+// Location: IOIBUF_X29_Y34_N15
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[2]~input (
 	.i(BB_SYSTEM_t0_InBUS[2]),
 	.ibar(gnd),
@@ -1940,7 +1940,7 @@ defparam \BB_SYSTEM_t0_InBUS[2]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[2]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y23_N22
+// Location: IOIBUF_X11_Y34_N1
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[1]~input (
 	.i(BB_SYSTEM_t0_InBUS[1]),
 	.ibar(gnd),
@@ -1950,7 +1950,7 @@ defparam \BB_SYSTEM_t0_InBUS[1]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[1]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: IOIBUF_X0_Y23_N1
+// Location: IOIBUF_X0_Y28_N8
 cycloneive_io_ibuf \BB_SYSTEM_t0_InBUS[0]~input (
 	.i(BB_SYSTEM_t0_InBUS[0]),
 	.ibar(gnd),
@@ -1960,10 +1960,10 @@ defparam \BB_SYSTEM_t0_InBUS[0]~input .bus_hold = "false";
 defparam \BB_SYSTEM_t0_InBUS[0]~input .simulate_z_as = "z";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N6
+// Location: LCCOMB_X11_Y28_N6
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout  = CARRY((!\BB_SYSTEM_t0_InBUS[0]~input_o  & \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0_combout ))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout  = CARRY((\BB_SYSTEM_t0_InBUS[0]~input_o  & !\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0_combout ))
 
 	.dataa(\BB_SYSTEM_t0_InBUS[0]~input_o ),
 	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[0]~0_combout ),
@@ -1973,18 +1973,18 @@ cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1 (
 	.combout(),
 	.cout(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout ));
 // synopsys translate_off
-defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1 .lut_mask = 16'h0044;
+defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1 .lut_mask = 16'h0022;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N8
+// Location: LCCOMB_X11_Y28_N8
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout  = CARRY((\BB_SYSTEM_t0_InBUS[1]~input_o  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout ))) # (!\BB_SYSTEM_t0_InBUS[1]~input_o  & 
-// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout )))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout  = CARRY((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout ) # (!\BB_SYSTEM_t0_InBUS[1]~input_o ))) # 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout  & (!\BB_SYSTEM_t0_InBUS[1]~input_o  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout )))
 
-	.dataa(\BB_SYSTEM_t0_InBUS[1]~input_o ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[1]~2_combout ),
+	.datab(\BB_SYSTEM_t0_InBUS[1]~input_o ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~1_cout ),
@@ -1995,14 +1995,14 @@ defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3 .lut_mask = 16'h002B;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N10
+// Location: LCCOMB_X11_Y28_N10
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout  = CARRY((\BB_SYSTEM_t0_InBUS[2]~input_o  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout )) # (!\BB_SYSTEM_t0_InBUS[2]~input_o  & 
-// ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout ) # (!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout ))))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout  = CARRY((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout  & (\BB_SYSTEM_t0_InBUS[2]~input_o  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout )) # 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout  & ((\BB_SYSTEM_t0_InBUS[2]~input_o ) # (!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout ))))
 
-	.dataa(\BB_SYSTEM_t0_InBUS[2]~input_o ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[2]~4_combout ),
+	.datab(\BB_SYSTEM_t0_InBUS[2]~input_o ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~3_cout ),
@@ -2013,14 +2013,14 @@ defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5 .lut_mask = 16'h004D;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N12
+// Location: LCCOMB_X11_Y28_N12
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout  = CARRY((\BB_SYSTEM_t0_InBUS[3]~input_o  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout ))) # (!\BB_SYSTEM_t0_InBUS[3]~input_o  & 
-// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout )))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout  = CARRY((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout ) # (!\BB_SYSTEM_t0_InBUS[3]~input_o ))) # 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout  & (!\BB_SYSTEM_t0_InBUS[3]~input_o  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout )))
 
-	.dataa(\BB_SYSTEM_t0_InBUS[3]~input_o ),
-	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout ),
+	.dataa(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[3]~6_combout ),
+	.datab(\BB_SYSTEM_t0_InBUS[3]~input_o ),
 	.datac(gnd),
 	.datad(vcc),
 	.cin(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~5_cout ),
@@ -2031,11 +2031,11 @@ defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7 .lut_mask = 16'h002B;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N14
+// Location: LCCOMB_X11_Y28_N14
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout  = CARRY((\BB_SYSTEM_t0_InBUS[4]~input_o  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout )) # (!\BB_SYSTEM_t0_InBUS[4]~input_o  & 
-// ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout ) # (!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout ))))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout  = CARRY((\BB_SYSTEM_t0_InBUS[4]~input_o  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout ))) # (!\BB_SYSTEM_t0_InBUS[4]~input_o  & 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~7_cout )))
 
 	.dataa(\BB_SYSTEM_t0_InBUS[4]~input_o ),
 	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[4]~8_combout ),
@@ -2045,15 +2045,15 @@ cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9 (
 	.combout(),
 	.cout(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout ));
 // synopsys translate_off
-defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9 .lut_mask = 16'h004D;
+defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9 .lut_mask = 16'h002B;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N16
+// Location: LCCOMB_X11_Y28_N16
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout  = CARRY((\BB_SYSTEM_t0_InBUS[5]~input_o  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout ))) # (!\BB_SYSTEM_t0_InBUS[5]~input_o  & 
-// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout )))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout  = CARRY((\BB_SYSTEM_t0_InBUS[5]~input_o  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout )) # (!\BB_SYSTEM_t0_InBUS[5]~input_o  & 
+// ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout ) # (!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~9_cout ))))
 
 	.dataa(\BB_SYSTEM_t0_InBUS[5]~input_o ),
 	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[5]~10_combout ),
@@ -2063,15 +2063,15 @@ cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11 (
 	.combout(),
 	.cout(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout ));
 // synopsys translate_off
-defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11 .lut_mask = 16'h002B;
+defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11 .lut_mask = 16'h004D;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N18
+// Location: LCCOMB_X11_Y28_N18
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout  = CARRY((\BB_SYSTEM_t0_InBUS[6]~input_o  & (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout )) # (!\BB_SYSTEM_t0_InBUS[6]~input_o  & 
-// ((\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout ) # (!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout ))))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout  = CARRY((\BB_SYSTEM_t0_InBUS[6]~input_o  & ((!\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout ) # (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout ))) # (!\BB_SYSTEM_t0_InBUS[6]~input_o  & 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout  & !\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~11_cout )))
 
 	.dataa(\BB_SYSTEM_t0_InBUS[6]~input_o ),
 	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[6]~12_combout ),
@@ -2081,20 +2081,20 @@ cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13 (
 	.combout(),
 	.cout(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout ));
 // synopsys translate_off
-defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13 .lut_mask = 16'h004D;
+defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13 .lut_mask = 16'h002B;
 defparam \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13 .sum_lutc_input = "cin";
 // synopsys translate_on
 
-// Location: LCCOMB_X6_Y24_N20
+// Location: LCCOMB_X11_Y28_N20
 cycloneive_lcell_comb \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14 (
 // Equation(s):
-// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14_combout  = (\BB_SYSTEM_t0_InBUS[7]~input_o  & (\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout  & \CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout )) # (!\BB_SYSTEM_t0_InBUS[7]~input_o  & 
-// ((\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout ) # (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout )))
+// \CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14_combout  = (\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout  & (\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout  & \BB_SYSTEM_t0_InBUS[7]~input_o )) # 
+// (!\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout  & ((\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout ) # (\BB_SYSTEM_t0_InBUS[7]~input_o )))
 
 	.dataa(gnd),
-	.datab(\BB_SYSTEM_t0_InBUS[7]~input_o ),
+	.datab(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout ),
 	.datac(gnd),
-	.datad(\CC_NEURON_u0|CC_ADDER_u2|CC_ADDER_sum_Out[7]~14_combout ),
+	.datad(\BB_SYSTEM_t0_InBUS[7]~input_o ),
 	.cin(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~13_cout ),
 	.combout(\CC_NEURON_u0|CC_COMPARATOR_u2|LessThan0~14_combout ),
 	.cout());
